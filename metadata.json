@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard Santri Real-Time & Monitoring Tahfidz",
+  "description": "Dashboard real-time pemantauan data santri, progres tahfidz, jadwal sholat 5 waktu & imsakiyah, mode tampilan TV monitor/digital signage rotasi otomatis 10 detik, riwayat prestasi, catatan disiplin, dan ekspor laporan PDF terintegrasi Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
